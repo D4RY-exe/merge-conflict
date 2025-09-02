@@ -1,0 +1,4 @@
+Shopping cart specs
+Cart totals are shown in dollars
+Taxes are calculated at checkout.
+Shipping options: Standard and Express
